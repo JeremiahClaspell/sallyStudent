@@ -1,0 +1,43 @@
+.picture {
+    display: inline-block; 
+    vertical-align: bottom; 
+  }
+  
+  .nameContact {
+    display: inline-block;  
+    background-color: yellow; 
+    padding: 15px; 
+    vertical-align: bottom;   
+  
+  }
+  .header {
+    background-color: green; 
+    border-bottom: 5px solid red; 
+  }
+  
+  .education {
+    background-color: tomato; 
+    padding: 5px; 
+    border-bottom: 10px solid yellow;
+    z-index: 0; 
+  }
+  
+  .experience {
+    background-color: cyan; 
+    padding: 5px;
+    z-index: 1;
+  }
+  
+  h3 {
+    font-size: 30pt; 
+  }
+  
+  h4 {
+    font-size: 20pt; 
+  }
+  
+  li {
+    font-size: 18pt; 
+  }
+  
+  
